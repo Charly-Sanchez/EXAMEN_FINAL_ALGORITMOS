@@ -50,8 +50,7 @@
 ### Paso 1: Clonar o Descargar el Proyecto
 
 ```bash
-git clone https://github.com/tu-usuario/simulador-carreras-tortugas.git
-cd simulador-carreras-tortugas
+git clone https://github.com/Charly-Sanchez/EXAMEN_FINAL_ALGORITMOS.git
 ```
 
 ### Paso 2: Instalar Dependencias
@@ -369,6 +368,5 @@ Este simulador demuestra la integración de múltiples conceptos de programació
 
 ---
 
-*Última actualización: 6 de noviembre de 2025*
-*INGENIERIA EN SISTEMAS CICLO II - SEDE DE ANTIGUA GUATEMALA*
 **Carlos Armando Sánchez Rodríguez || 1290 - 25 - 2060**
+*INGENIERIA EN SISTEMAS CICLO II - SEDE DE ANTIGUA GUATEMALA - ALGORITMOS*

@@ -1,0 +1,58 @@
+[
+  {
+    "fecha_hora": "2025-11-06 23:12:17",
+    "mapa": "Óvalo NASCAR",
+    "participantes": [
+      {
+        "nombre": "Speedy_1",
+        "color": "#FF0000",
+        "posicion": 1
+      },
+      {
+        "nombre": "Speedy_2",
+        "color": "#00FF00",
+        "posicion": 2
+      },
+      {
+        "nombre": "Speedy_3",
+        "color": "#0000FF",
+        "posicion": 3
+      }
+    ],
+    "ganador": {
+      "nombre": "Speedy_3",
+      "color": "#0000FF",
+      "posicion": 3
+    },
+    "tiempo_carrera": 65.36,
+    "num_participantes": 3
+  },
+  {
+    "fecha_hora": "2025-11-06 23:14:46",
+    "mapa": "Circuito en S",
+    "participantes": [
+      {
+        "nombre": "Speedy_1",
+        "color": "#FF0000",
+        "posicion": 1
+      },
+      {
+        "nombre": "Speedy_2",
+        "color": "#00FF00",
+        "posicion": 2
+      },
+      {
+        "nombre": "Speedy_3",
+        "color": "#0000FF",
+        "posicion": 3
+      }
+    ],
+    "ganador": {
+      "nombre": "Speedy_1",
+      "color": "#FF0000",
+      "posicion": 1
+    },
+    "tiempo_carrera": 43.83,
+    "num_participantes": 3
+  }
+]
