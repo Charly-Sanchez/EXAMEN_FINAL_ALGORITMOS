@@ -368,5 +368,6 @@ Este simulador demuestra la integración de múltiples conceptos de programació
 
 ---
 
-**Carlos Armando Sánchez Rodríguez || 1290 - 25 - 2060**
+**Carlos Armando Sánchez Rodríguez || 1290 - 25 - 2060** 
+## 
 *INGENIERIA EN SISTEMAS CICLO II - SEDE DE ANTIGUA GUATEMALA - ALGORITMOS*
